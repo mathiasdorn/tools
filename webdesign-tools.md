@@ -22,3 +22,15 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [New old stock](http://nos.twnsnd.co/) - Vintage pictures drom public archives.
 * [SplitShire](http://www.splitshire.com/) - CCO stock collection.
 * [Zoommy](https://zoommyapp.com/) - Free stock photos via desktop app.
+
+## Stock Graphics
+
+* [Vecteezy](https://www.vecteezy.com/) - The best place to find vector images
+* [The Noun Project](https://thenounproject.com/) - Find simple icons and glyphs.
+* [Flat Icon](http://www.flaticon.com/) - Large icon database made by designers.
+* [Icon Finder](https://www.iconfinder.com/) - Powerful search engine for ferr icons.
+* [Webalys](http://www.webalys.com/) - One of the most wonderful icon libary.
+* [Round Icons](http://roundicons.com/) -  Library of premium icons covering all icon styles.
+* [Iconjar](http://geticonjar.com/) - Mac app to store all icons in one place.
+* [The Ispot](https://theispot.com/) - Illustrations from great artists.
+* [Brusheezy](https://www.brusheezy.com/) - Free Photoshop brushes and psd. 
