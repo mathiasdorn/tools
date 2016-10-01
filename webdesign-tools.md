@@ -68,6 +68,7 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 ## Inspiration
 
 * [Dribble](https://dribbble.com/) - The place where designers share their most dazzling assets.
+* [UI Temple](http://www.uitemple.com/) - Curated Collection of the Best Web Page Designs & Inspirations
 * [Muzli](http://muz.li/) - Browser extension providing inspiration in every new tab.
 * [Awwwards](http://www.awwwards.com/) - Recognizes the talent of the best designers, developers and agencies.
 * [One Page Love](https://onepagelove.com/) - Showcase of one page websites.
