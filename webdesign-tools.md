@@ -64,3 +64,13 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [PaletteGenerator](http://palettegenerator.com/) - Generate a color palette for any image you find.
 * [Pictaculous](http://www.pictaculous.com/) - Upload your image and get the perfect color palette.
 * [Unclrd](http://www.unclrd.com/) - Browser extension that turns every website into black and white.
+
+## Inspiration
+
+* [Dribble](https://dribbble.com/) - The place where designers share their most dazzling assets.
+* [Muzli](http://muz.li/) - Browser extension providing inspiration in every new tab.
+* [Awwwards](http://www.awwwards.com/) - Recognizes the talent of the best designers, developers and agencies.
+* [One Page Love](https://onepagelove.com/) - Showcase of one page websites.
+* [Site see](https://sitesee.co/) - Curated gallery of beautiful, modern websites.
+* [Material Up](https://material.uplabs.com/) - Curates the best design materials available online everyday.
+* [Mobile Patterns](http://www.mobile-patterns.com/) - Learn how to overcome UX flows for your mobile app.
