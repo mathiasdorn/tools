@@ -55,3 +55,12 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Marqueed](https://www.marqueed.com/) - Mark-up, discuss images online - useful for Photoshop.
 * [Cage](https://cageapp.com/) - A simple way for designers and teams to share, manage and approve their creative work.
 
+## Colors
+
+* [Colorhunt](http://colorhunt.co/) - Browse through thousands of four-color combinations until you find the right one.
+* [Adobe Color CC](https://color.adobe.com/) - Generate and save various color schemes.
+* [Coolors](https://coolors.co/) - Hundreds of color palettes.
+* [TinEye](https://www.tineye.com/) - Determine your colors and search images with the perfect color combination.
+* [PaletteGenerator](http://palettegenerator.com/) - Generate a color palette for any image you find.
+* [Pictaculous](http://www.pictaculous.com/) - Upload your image and get the perfect color palette.
+* [Unclrd](http://www.unclrd.com/) - Browser extension that turns every website into black and white.
