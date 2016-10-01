@@ -34,3 +34,15 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Iconjar](http://geticonjar.com/) - Mac app to store all icons in one place.
 * [The Ispot](https://theispot.com/) - Illustrations from great artists.
 * [Brusheezy](https://www.brusheezy.com/) - Free Photoshop brushes and psd. 
+
+## Infographics
+
+* [Canva](https://www.canva.com) - Amazingly simple design graphic software create your own infographics.
+* [Easely](https://www.easel.ly/) - Select among hundreds of templates and create your own infographic.
+* [Infogram](https://infogr.am/) - Allows to generate qualitative charts.
+* [Visualize.me](http://vizualize.me/) - Visualize your resume in one click.
+* [Venngage](https://venngage.com/) - Simple infographic tool.
+* [Piktochart](https://piktochart.com/) - Easy to use infographic maker.
+* [Visme](http://www.visme.co/) - Transform your ideas to engaging content.
+* [Draw.io](https://www.draw.io/) - Complete flowchart maker.
+* [Gliffy](https://www.gliffy.com/) - Make Diagramming a Team Sport.
