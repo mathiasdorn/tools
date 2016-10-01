@@ -86,3 +86,13 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Blender](https://www.blender.org/) - Open source 3D creation software.
 * [Gimp](https://www.gimp.org/) - Open source image editor.
 * [Affinity](https://affinity.serif.com/de/photo/) - Professional photo editing software - mac only.
+
+## Logo Design
+
+* [SquareSpace](http://logo.squarespace.com/) - Tool, combines squarespace expertise with nounproject icons to create your cool logo.
+* [Designmantic](https://www.designmantic.com/de/) - Generates logos based on company name and industry.
+* [Graphic Springs](https://www.graphicsprings.com/) - Create logos with templates.
+* [Logo Genie](http://www.logogenie.net/) - Easy logo generator.
+* [Logo Makr](https://logomakr.com/) - Create simple logo with flaticons materials.
+* [Logo Garden](https://www.logogarden.com/) - Select the industry you are working in and choose  the generated logo.
+* [Logoshi](https://www.logoshi.com/) - Draw a messy sketch and get a clean generated logo.	
