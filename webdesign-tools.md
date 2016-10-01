@@ -46,3 +46,12 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Visme](http://www.visme.co/) - Transform your ideas to engaging content.
 * [Draw.io](https://www.draw.io/) - Complete flowchart maker.
 * [Gliffy](https://www.gliffy.com/) - Make Diagramming a Team Sport.
+
+## Collaboration
+
+* [Invision](https://www.invisionapp.com/) - Simple prototyping and collaboration tool for design teams.
+* [Zeplin](https://zeplin.io/) - Collaboration tool between designers and developers.
+* [Wake](https://wake.com/) - Share, review and discuss designs among your team (Airbnb is using it ;) )
+* [Marqueed](https://www.marqueed.com/) - Mark-up, discuss images online - useful for Photoshop.
+* [Cage](https://cageapp.com/) - A simple way for designers and teams to share, manage and approve their creative work.
+
