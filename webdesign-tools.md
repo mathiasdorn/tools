@@ -96,3 +96,13 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Logo Makr](https://logomakr.com/) - Create simple logo with flaticons materials.
 * [Logo Garden](https://www.logogarden.com/) - Select the industry you are working in and choose  the generated logo.
 * [Logoshi](https://www.logoshi.com/) - Draw a messy sketch and get a clean generated logo.	
+## Prototyping
+
+* [Sketch](https://www.sketchapp.com/) - A vector design tool convenient for UI and UX. Mac only
+* [Napkin](http://designwithnapkin.com/) - Design quick mockups on your ios device.
+* [Flinto](https://www.flinto.com/) - Sketch interactive prototypes from static images.
+* [ProtoIO](https://proto.io/?gclid=CjwKEAjwvb2_BRCb_s7Yo7_ZlHASJABz6L0jIktFxATW5o1bP8iI3GGI6R6UIKeOJWWI0IW6BlAC1hoCQijw_wcB) - Make ultra realistic app prototypes without coding.
+* [Weld](https://www.weld.io/) - Draw your website online.
+* [Balsamiq](https://balsamiq.com/) - Wireframing tool for clear mockups.
+* [Atomic](https://atomic.io/) - Design prototypes and share with you team.
+* [HTML5 Up](https://html5up.net/) - Create classy, customizable responsive HTML 5 templates.
