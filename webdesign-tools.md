@@ -74,3 +74,15 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Site see](https://sitesee.co/) - Curated gallery of beautiful, modern websites.
 * [Material Up](https://material.uplabs.com/) - Curates the best design materials available online everyday.
 * [Mobile Patterns](http://www.mobile-patterns.com/) - Learn how to overcome UX flows for your mobile app.
+
+## Graphic/Picture Editor
+
+* [Illustrator](http://www.adobe.com/de/products/illustrator.html?mv=search&s_kwcid=AL!3085!3!102246925037!b!!g!!adobe%20illustrator&ef_id=V12FuQAAAfRjYxra:20161001194033:s) - Must have tool for vector graphics.
+* [Photoshop](http://www.adobe.com/de/products/photoshop/bilder-bearbeiten.html) - Create and enhance your photographes, web designs and artworks.
+* * [Pixlr](https://pixlr.com/) - Get access to hundreds effects to retouch your pictures. FOR FREE. 
+* [Inkspace](https://inkscape.org/de/) - Best open source Illustrator alternative.
+* [Daz Studio](https://www.daz3d.com/get_studio) - Create 3D objects.
+* [Aviary](https://aviary.com/) - Edit your photos from a mobile app or from a web app.
+* [Blender](https://www.blender.org/) - Open source 3D creation software.
+* [Gimp](https://www.gimp.org/) - Open source image editor.
+* [Affinity](https://affinity.serif.com/de/photo/) - Professional photo editing software - mac only.
