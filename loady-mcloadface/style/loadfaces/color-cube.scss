@@ -1,8 +1,8 @@
-@import 'spinner-config';
+@import 'loadface-config';
 
 .color-cube {
-  height: $spinner-size;
-  width: $spinner-size;
+  height: $loadface-size;
+  width: $loadface-size;
   animation: color-cube 5s infinite linear;
 }
 @keyframes color-cube {

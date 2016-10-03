@@ -1,9 +1,9 @@
 @import 'helper';
-@import 'spinner-config';
+@import 'loadface-config';
 
 .spinning-borders {
-  @include circle-spinner;
-  border: percent-of-spinnersize(12) solid $first-color;
+  @include circle-loadface;
+  border: percent-of-loadface-size(12) solid $first-color;
   border-top-color: $second-color;
   border-bottom-color: $second-color;
   animation: spinning-borders 1.5s infinite ease-in-out;

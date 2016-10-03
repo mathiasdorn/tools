@@ -1,9 +1,9 @@
 @import 'helper';
-@import 'spinner-config';
+@import 'loadface-config';
   
 .spinning-cube {
-  height: $spinner-size;
-  width: $spinner-size;
+  height: $loadface-size;
+  width: $loadface-size;
   background-color: $first-color;
   animation: spinning-cube 1s infinite linear; 
 }

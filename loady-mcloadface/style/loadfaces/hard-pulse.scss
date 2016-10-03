@@ -1,8 +1,8 @@
 @import 'helper';
-@import 'spinner-config';
+@import 'loadface-config';
 
 .hard-pulse {
-  @include circle-spinner;
+  @include circle-loadface;
   background-color: $first-color;
   animation: hard-pulse 2s infinite ease-in-out;
 }

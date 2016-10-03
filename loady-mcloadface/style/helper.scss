@@ -1,9 +1,11 @@
-@mixin circle-spinner {
-  height: $spinner-size;
-  width: $spinner-size;
+@import 'loadface-config';
+
+@mixin circle-loadface {
+  height: $loadface-size;
+  width: $loadface-size;
   border-radius: 50%;
 }
 
-@function percent-of-spinnersize($percent) {
-  @return ($percent * $spinner-size) / 100
+@function percent-of-loadface-size($percent) {
+  @return ($percent * $loadface-size) / 100
 }

@@ -1,9 +1,9 @@
 @import 'helper';
-@import 'spinner-config';
+@import 'loadface-config';
 
 .two-face {
-  @include circle-spinner;  
-  border: percent-of-spinnersize(8) solid rgba(255,255,255,0);
+  @include circle-loadface;  
+  border: percent-of-loadface-size(8) solid rgba(255,255,255,0);
   animation: two-face 3s infinite linear;
 }
 @keyframes two-face {

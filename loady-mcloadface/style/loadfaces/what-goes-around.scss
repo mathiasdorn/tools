@@ -1,28 +1,28 @@
 @import 'helper';
-@import 'spinner-config';
+@import 'loadface-config';
 
 .what-goes-around {
-  height: percent-of-spinnersize(40);
-  width: percent-of-spinnersize(40);
+  height: percent-of-loadface-size(40);
+  width: percent-of-loadface-size(40);
   border-radius: 50%;
   animation: what-goes-around 1.5s infinite linear;
 }
 
 @keyframes what-goes-around {
   0%, 20%, 100% {
-    transform: translate(- percent-of-spinnersize(40), - percent-of-spinnersize(40));
+    transform: translate(- percent-of-loadface-size(40), - percent-of-loadface-size(40));
     background-color: $first-color;
   }
   25%, 45% {
-    transform: translate(percent-of-spinnersize(40), - percent-of-spinnersize(40));
+    transform: translate(percent-of-loadface-size(40), - percent-of-loadface-size(40));
     background-color: $second-color;
   }
   50%, 70% {
-    transform: translate(percent-of-spinnersize(40), percent-of-spinnersize(40));
+    transform: translate(percent-of-loadface-size(40), percent-of-loadface-size(40));
     background-color: $third-color;
   }
   75%, 95% {
-    transform: translate(- percent-of-spinnersize(40), percent-of-spinnersize(40));
+    transform: translate(- percent-of-loadface-size(40), percent-of-loadface-size(40));
     background-color: $fourth-color;
   }
 }
