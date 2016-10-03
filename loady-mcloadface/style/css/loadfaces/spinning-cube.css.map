@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,cAAe;EACb,MAAM,ECHO,IAAI;EDIjB,KAAK,ECJQ,IAAI;EDKjB,gBAAgB,EAAE,OAAO;EACzB,SAAS,EAAE,gCAAgC;;AAE7C,wBAUC;EATC,EAAG;IACD,SAAS,EAAE,8CAA8C;EAE3D,GAAI;IACF,SAAS,EAAE,iDAAiD;EAE9D,IAAK;IACH,SAAS,EAAE,sDAAsD",
+"sources": ["../../sass/loadfaces/spinning-cube.scss","../../sass/spinner-config.scss"],
+"names": [],
+"file": "spinning-cube.css"
+}

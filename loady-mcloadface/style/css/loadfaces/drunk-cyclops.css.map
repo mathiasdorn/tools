@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,cAAe;ECCb,MAAM,EAHO,IAAI;EAIjB,KAAK,EAJQ,IAAI;EAKjB,aAAa,EAAE,GAAG;EDDlB,gBAAgB,EAAE,OAAO;EACzB,SAAS,EAAE,qCAAqC;;AAGlD,wBAOC;EANC,QAAS;IACP,MAAM,EAAE,OAAO;EAEjB,GAAI;IACF,MAAM,EAAE,UAAU",
+"sources": ["../../sass/loadfaces/drunk-cyclops.scss","../../sass/spinner-config.scss"],
+"names": [],
+"file": "drunk-cyclops.css"
+}

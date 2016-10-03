@@ -1,0 +1,16 @@
+.spinning-borders {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 6px solid #eeeeee;
+  border-top-color: #bfbfbf;
+  border-bottom-color: #bfbfbf;
+  animation: spinning-borders 1.5s infinite ease-in-out; }
+
+@keyframes spinning-borders {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(540deg); } }
+
+/*# sourceMappingURL=spinning-borders.css.map */

@@ -1,0 +1,14 @@
+.drunk-cyclops {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #ec644b;
+  animation: drunk-cyclops 2s infinite ease-in-out; }
+
+@keyframes drunk-cyclops {
+  0%, 100% {
+    filter: blur(0); }
+  50% {
+    filter: blur(15px); } }
+
+/*# sourceMappingURL=drunk-cyclops.css.map */

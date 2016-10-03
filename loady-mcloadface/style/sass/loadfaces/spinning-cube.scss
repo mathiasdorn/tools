@@ -1,0 +1,19 @@
+@import 'spinner-config';
+  
+.spinning-cube {
+  height: $spinner-size;
+  width: $spinner-size;
+  background-color: #d35400;
+  animation: spinning-cube 1s infinite linear; 
+}
+@keyframes spinning-cube {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+  }
+  50% {
+    transform: perspective(120px) rotateX(-181deg) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+  }
+}

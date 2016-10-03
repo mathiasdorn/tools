@@ -1,0 +1,22 @@
+.circuit {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 8px solid #A2DED0;
+  animation: circuit 2s infinite linear; }
+  .circuit:before {
+    content: '';
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: #16A085;
+    position: absolute;
+    top: -7px;
+    left: 14px; }
+
+@keyframes circuit {
+  100% {
+    transform: rotate(360deg); } }
+
+/*# sourceMappingURL=circuit.css.map */

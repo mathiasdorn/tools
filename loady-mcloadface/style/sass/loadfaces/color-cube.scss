@@ -1,0 +1,29 @@
+@import 'spinner-config';
+
+.color-cube {
+  height: $spinner-size;
+  width: $spinner-size;
+  animation: color-cube 5s infinite linear;
+}
+@keyframes color-cube {
+  0% {
+    transform: perspective(180px) rotateX(0deg) rotateY(0deg);
+    background-color: #f4d03f;
+  }
+  25% {
+    transform: perspective(180px) rotateX(-180deg) rotateY(0deg);  
+    background-color: #52b3d9;
+  }
+  50% {
+    transform: perspective(180px) rotateX(-180deg) rotateY(180deg);  
+    background-color: #ec644b;
+  }
+  75% {
+    transform: perspective(180px) rotateX(-360deg) rotateY(180deg);  
+    background-color: #68c3a3;
+  }
+  100% {
+    transform: perspective(180px) rotateX(-360deg) rotateY(360deg);  
+    background-color: #f4d03f;
+  }
+}

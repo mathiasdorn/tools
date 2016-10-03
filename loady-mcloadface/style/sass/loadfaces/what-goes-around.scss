@@ -1,0 +1,27 @@
+@import 'spinner-config';
+
+.what-goes-around {
+  height: $spinner-size - 30px;;
+  width: $spinner-size - 30px;
+  border-radius: 50%;
+  animation: what-goes-around 1.5s infinite linear;
+}
+$translate-dimension: $spinner-size - 30px;
+@keyframes what-goes-around {
+  0%, 20%, 100% {
+    transform: translate(-$translate-dimension, -$translate-dimension);
+    background-color: #f5d76e;
+  }
+  25%, 45% {
+    transform: translate($translate-dimension, -$translate-dimension);
+    background-color: #4183d7;
+  }
+  50%, 70% {
+    transform: translate($translate-dimension, $translate-dimension);
+    background-color: #d64541;
+  }
+  75%, 95% {
+    transform: translate(-$translate-dimension, $translate-dimension);
+    background-color: #26a65b;
+  }
+}

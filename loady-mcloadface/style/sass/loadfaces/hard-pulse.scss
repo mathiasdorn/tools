@@ -1,0 +1,17 @@
+@import 'spinner-config';
+
+.hard-pulse {
+  @include circle-spinner;
+  background-color: #ec644b;
+  animation: hard-pulse 2s infinite ease-in-out;
+}
+@keyframes hard-pulse {
+  0%, 20%, 40%, 60%, 100% {
+    transform: scale(.2);
+    opacity: 0;
+  }
+  10%, 30%, 50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
