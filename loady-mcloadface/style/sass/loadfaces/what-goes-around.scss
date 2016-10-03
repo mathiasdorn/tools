@@ -10,18 +10,18 @@ $translate-dimension: $spinner-size - 30px;
 @keyframes what-goes-around {
   0%, 20%, 100% {
     transform: translate(-$translate-dimension, -$translate-dimension);
-    background-color: #f5d76e;
+    background-color: $first-color;
   }
   25%, 45% {
     transform: translate($translate-dimension, -$translate-dimension);
-    background-color: #4183d7;
+    background-color: $second-color;
   }
   50%, 70% {
     transform: translate($translate-dimension, $translate-dimension);
-    background-color: #d64541;
+    background-color: $third-color;
   }
   75%, 95% {
     transform: translate(-$translate-dimension, $translate-dimension);
-    background-color: #26a65b;
+    background-color: $fourth-color;
   }
 }

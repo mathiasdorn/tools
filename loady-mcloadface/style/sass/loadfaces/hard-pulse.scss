@@ -2,7 +2,7 @@
 
 .hard-pulse {
   @include circle-spinner;
-  background-color: #ec644b;
+  background-color: $first-color;
   animation: hard-pulse 2s infinite ease-in-out;
 }
 @keyframes hard-pulse {

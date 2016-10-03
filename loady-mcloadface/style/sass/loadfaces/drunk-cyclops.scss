@@ -2,7 +2,7 @@
 
 .drunk-cyclops {
   @include circle-spinner;
-  background-color: #ec644b;
+  background-color: $first-color;
   animation: drunk-cyclops 2s infinite ease-in-out;
 }
   

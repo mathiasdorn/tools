@@ -6,18 +6,18 @@
 @keyframes color-cube {
   0% {
     transform: perspective(180px) rotateX(0deg) rotateY(0deg);
-    background-color: #f4d03f; }
+    background-color: #f5d76e; }
   25% {
     transform: perspective(180px) rotateX(-180deg) rotateY(0deg);
-    background-color: #52b3d9; }
+    background-color: #4183d7; }
   50% {
     transform: perspective(180px) rotateX(-180deg) rotateY(180deg);
-    background-color: #ec644b; }
+    background-color: #d64541; }
   75% {
     transform: perspective(180px) rotateX(-360deg) rotateY(180deg);
-    background-color: #68c3a3; }
+    background-color: #26a65b; }
   100% {
     transform: perspective(180px) rotateX(-360deg) rotateY(360deg);
-    background-color: #f4d03f; } }
+    background-color: grey; } }
 
 /*# sourceMappingURL=color-cube.css.map */

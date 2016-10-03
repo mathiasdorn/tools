@@ -3,7 +3,7 @@
 .circuit {
   position: relative;
   @include circle-spinner;
-  border: 8px solid #A2DED0;
+  border: 8px solid $first-color;
   animation: circuit 2s infinite linear; 
 
   &:before { 
@@ -11,7 +11,7 @@
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #16A085;
+    background-color: $second-color;
     position: absolute;
     top: -7px;     
     left: 14px;

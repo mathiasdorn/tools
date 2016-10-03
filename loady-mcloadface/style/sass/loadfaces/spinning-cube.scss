@@ -3,7 +3,7 @@
 .spinning-cube {
   height: $spinner-size;
   width: $spinner-size;
-  background-color: #d35400;
+  background-color: $first-color;
   animation: spinning-cube 1s infinite linear; 
 }
 @keyframes spinning-cube {

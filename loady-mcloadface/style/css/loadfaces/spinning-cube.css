@@ -1,7 +1,7 @@
 .spinning-cube {
   height: 50px;
   width: 50px;
-  background-color: #d35400;
+  background-color: #f5d76e;
   animation: spinning-cube 1s infinite linear; }
 
 @keyframes spinning-cube {

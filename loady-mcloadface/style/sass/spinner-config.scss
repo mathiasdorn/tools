@@ -1,5 +1,11 @@
 $spinner-size: 50px;
 
+$first-color:  #f5d76e;
+$second-color: #4183d7;
+$third-color:  #d64541;
+$fourth-color: #26a65b;
+$fifth-color: grey;
+
 @mixin circle-spinner {
   height: $spinner-size;
   width: $spinner-size;

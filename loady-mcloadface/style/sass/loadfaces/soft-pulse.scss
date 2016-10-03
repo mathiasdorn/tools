@@ -2,7 +2,7 @@
 
 .soft-pulse {
   @include circle-spinner;
-  background-color: #90c695;
+  background-color: $first-color;
   animation: soft-pulse 1s infinite ease-in-out;
 }
    

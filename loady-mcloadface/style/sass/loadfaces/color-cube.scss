@@ -8,22 +8,22 @@
 @keyframes color-cube {
   0% {
     transform: perspective(180px) rotateX(0deg) rotateY(0deg);
-    background-color: #f4d03f;
+    background-color: $first-color;
   }
   25% {
     transform: perspective(180px) rotateX(-180deg) rotateY(0deg);  
-    background-color: #52b3d9;
+    background-color: $second-color;
   }
   50% {
     transform: perspective(180px) rotateX(-180deg) rotateY(180deg);  
-    background-color: #ec644b;
+    background-color: $third-color;
   }
   75% {
     transform: perspective(180px) rotateX(-360deg) rotateY(180deg);  
-    background-color: #68c3a3;
+    background-color: $fourth-color;
   }
   100% {
     transform: perspective(180px) rotateX(-360deg) rotateY(360deg);  
-    background-color: #f4d03f;
+    background-color: $fifth-color;
   }
 }

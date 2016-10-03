@@ -48,7 +48,7 @@ h2 {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  background-color: #ec644b;
+  background-color: #f5d76e;
   animation: hard-pulse 2s infinite ease-in-out; }
 
 @keyframes hard-pulse {
@@ -62,7 +62,7 @@ h2 {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  background-color: #90c695;
+  background-color: #f5d76e;
   animation: soft-pulse 1s infinite ease-in-out; }
 
 @keyframes soft-pulse {
@@ -76,9 +76,9 @@ h2 {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  border: 6px solid #eeeeee;
-  border-top-color: #bfbfbf;
-  border-bottom-color: #bfbfbf;
+  border: 6px solid #f5d76e;
+  border-top-color: #4183d7;
+  border-bottom-color: #4183d7;
   animation: spinning-borders 1.5s infinite ease-in-out; }
 
 @keyframes spinning-borders {
@@ -90,7 +90,7 @@ h2 {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  background-color: #ec644b;
+  background-color: #f5d76e;
   animation: drunk-cyclops 2s infinite ease-in-out; }
 
 @keyframes drunk-cyclops {
@@ -106,19 +106,19 @@ h2 {
 @keyframes color-cube {
   0% {
     transform: perspective(180px) rotateX(0deg) rotateY(0deg);
-    background-color: #f4d03f; }
+    background-color: #f5d76e; }
   25% {
     transform: perspective(180px) rotateX(-180deg) rotateY(0deg);
-    background-color: #52b3d9; }
+    background-color: #4183d7; }
   50% {
     transform: perspective(180px) rotateX(-180deg) rotateY(180deg);
-    background-color: #ec644b; }
+    background-color: #d64541; }
   75% {
     transform: perspective(180px) rotateX(-360deg) rotateY(180deg);
-    background-color: #68c3a3; }
+    background-color: #26a65b; }
   100% {
     transform: perspective(180px) rotateX(-360deg) rotateY(360deg);
-    background-color: #f4d03f; } }
+    background-color: grey; } }
 .what-goes-around {
   height: 20px;
   width: 20px;
@@ -143,35 +143,33 @@ h2 {
   width: 50px;
   border-radius: 50%;
   border: 4px solid rgba(255, 255, 255, 0);
-  border-top-color: 4px solid #7fc4d1;
-  border-right-color: 4px solid #7fc4d1;
   animation: two-face 3s infinite linear; }
 
 @keyframes two-face {
   0% {
     transform: rotate(0deg);
-    border-top-color: #7fc4d1;
-    border-right-color: #7fc4d1; }
+    border-top-color: #f5d76e;
+    border-right-color: #f5d76e; }
   50% {
-    border-top-color: #1f4f58;
-    border-right-color: #1f4f58; }
+    border-top-color: #4183d7;
+    border-right-color: #4183d7; }
   100% {
     transform: rotate(720deg);
-    border-top-color: #7fc4d1;
-    border-right-color: #7fc4d1; } }
+    border-top-color: #f5d76e;
+    border-right-color: #f5d76e; } }
 .circuit {
   position: relative;
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  border: 8px solid #A2DED0;
+  border: 8px solid #f5d76e;
   animation: circuit 2s infinite linear; }
   .circuit:before {
     content: '';
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #16A085;
+    background-color: #4183d7;
     position: absolute;
     top: -7px;
     left: 14px; }
@@ -182,7 +180,7 @@ h2 {
 .spinning-cube {
   height: 50px;
   width: 50px;
-  background-color: #d35400;
+  background-color: #f5d76e;
   animation: spinning-cube 1s infinite linear; }
 
 @keyframes spinning-cube {

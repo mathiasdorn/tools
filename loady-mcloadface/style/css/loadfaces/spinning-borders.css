@@ -2,9 +2,9 @@
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  border: 6px solid #eeeeee;
-  border-top-color: #bfbfbf;
-  border-bottom-color: #bfbfbf;
+  border: 6px solid #f5d76e;
+  border-top-color: #4183d7;
+  border-bottom-color: #4183d7;
   animation: spinning-borders 1.5s infinite ease-in-out; }
 
 @keyframes spinning-borders {
