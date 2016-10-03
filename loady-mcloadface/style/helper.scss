@@ -1,0 +1,9 @@
+@mixin circle-spinner {
+  height: $spinner-size;
+  width: $spinner-size;
+  border-radius: 50%;
+}
+
+@function percent-of-spinnersize($percent) {
+  @return ($percent * $spinner-size) / 100
+}

@@ -1,13 +1,8 @@
+// $spinner-size in px supported only  
 $spinner-size: 50px;
 
-$first-color:  #f5d76e;
-$second-color: #4183d7;
-$third-color:  #d64541;
-$fourth-color: #26a65b;
-$fifth-color: grey;
-
-@mixin circle-spinner {
-  height: $spinner-size;
-  width: $spinner-size;
-  border-radius: 50%;
-}
+$first-color:  #2E7D32;
+$second-color: #C8E6C9;
+$third-color:  #E65100;
+$fourth-color: #FFA726;
+$fifth-color: #FFFF00;

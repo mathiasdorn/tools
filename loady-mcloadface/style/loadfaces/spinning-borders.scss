@@ -1,8 +1,9 @@
+@import 'helper';
 @import 'spinner-config';
 
 .spinning-borders {
   @include circle-spinner;
-  border: 6px solid $first-color;
+  border: percent-of-spinnersize(12) solid $first-color;
   border-top-color: $second-color;
   border-bottom-color: $second-color;
   animation: spinning-borders 1.5s infinite ease-in-out;
