@@ -1,0 +1,18 @@
+{
+  "name": "LoadyMcLoadface",
+  "version": "0.0.1",
+  "description": "Loady McLoadface is a collection of loading animations. All animations are based on HTML and CSS only.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Mathias Dorn",
+  "license": "MIT",
+  "devDependencies": {
+    "sass-loader": "^4.0.0",
+    "css-loader": "^0.24.0",
+    "style-loader": "^0.13.1",
+    "node-sass": "^3.8.0",
+    "webpack-dev-server": "^1.15.0"
+  }
+}

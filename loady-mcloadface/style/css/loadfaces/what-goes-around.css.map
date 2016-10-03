@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,iBAAkB;EAChB,MAAM,EAAE,IAAoB;EAC5B,KAAK,EAAE,IAAoB;EAC3B,aAAa,EAAE,GAAG;EAClB,SAAS,EAAE,qCAAqC;;AAGlD,2BAiBC;EAhBC,aAAc;IACZ,SAAS,EAAE,uBAAuD;IAClE,gBAAgB,ECVL,OAAO;EDYpB,QAAS;IACP,SAAS,EAAE,sBAAsD;IACjE,gBAAgB,ECbL,OAAO;EDepB,QAAS;IACP,SAAS,EAAE,qBAAqD;IAChE,gBAAgB,EChBL,OAAO;EDkBpB,QAAS;IACP,SAAS,EAAE,sBAAsD;IACjE,gBAAgB,ECnBL,OAAO",
-"sources": ["../../sass/loadfaces/what-goes-around.scss","../../sass/spinner-config.scss"],
-"names": [],
-"file": "what-goes-around.css"
-}

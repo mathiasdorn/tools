@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,WAAY;EACV,MAAM,ECHO,IAAI;EDIjB,KAAK,ECJQ,IAAI;EDKjB,SAAS,EAAE,6BAA6B;;AAE1C,qBAqBC;EApBC,EAAG;IACD,SAAS,EAAE,8CAA8C;IACzD,gBAAgB,ECRL,OAAO;EDUpB,GAAI;IACF,SAAS,EAAE,iDAAiD;IAC5D,gBAAgB,ECXL,OAAO;EDapB,GAAI;IACF,SAAS,EAAE,mDAAmD;IAC9D,gBAAgB,ECdL,OAAO;EDgBpB,GAAI;IACF,SAAS,EAAE,mDAAmD;IAC9D,gBAAgB,ECjBL,OAAO;EDmBpB,IAAK;IACH,SAAS,EAAE,mDAAmD;IAC9D,gBAAgB,ECpBN,IAAI",
-"sources": ["../../sass/loadfaces/color-cube.scss","../../sass/spinner-config.scss"],
-"names": [],
-"file": "color-cube.css"
-}

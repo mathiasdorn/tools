@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,iBAAkB;ECOhB,MAAM,EATO,IAAI;EAUjB,KAAK,EAVQ,IAAI;EAWjB,aAAa,EAAE,GAAG;EDPlB,MAAM,EAAE,iBAAsB;EAC9B,gBAAgB,ECFH,OAAO;EDGpB,mBAAmB,ECHN,OAAO;EDIpB,SAAS,EAAE,0CAA0C;;AAGvD,2BAOC;EANC,EAAG;IACD,SAAS,EAAE,YAAY;EAEzB,IAAK;IACH,SAAS,EAAE,cAAc",
-"sources": ["../../sass/loadfaces/spinning-borders.scss","../../sass/spinner-config.scss"],
-"names": [],
-"file": "spinning-borders.css"
-}

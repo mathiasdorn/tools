@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,WAAY;ECOV,MAAM,EATO,IAAI;EAUjB,KAAK,EAVQ,IAAI;EAWjB,aAAa,EAAE,GAAG;EDPlB,gBAAgB,ECFH,OAAO;EDGpB,SAAS,EAAE,kCAAkC;;AAE/C,qBASC;EARC,uBAAwB;IACtB,SAAS,EAAE,UAAS;IACpB,OAAO,EAAE,CAAC;EAEZ,aAAc;IACZ,SAAS,EAAE,QAAQ;IACnB,OAAO,EAAE,CAAC",
-"sources": ["../../sass/loadfaces/hard-pulse.scss","../../sass/spinner-config.scss"],
-"names": [],
-"file": "hard-pulse.css"
-}
