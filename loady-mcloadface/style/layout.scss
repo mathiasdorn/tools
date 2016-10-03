@@ -1,18 +1,24 @@
+$body-bg-color: #f9f9f9;
+$intro-bg-color: #387F71;
+$single-bg-color: #1abc9c;
+
+
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #f9f9f9;
+  background-color: $body-bg-color;
   color: #E0F2F1;
 }
 
 
 .intro {
-  background-color: #1ba98d;
-  padding: 100px;
+  background-color: $intro-bg-color;
+  padding: 10vh 15vw;
   text-align: center;
 }
 
 .card {
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+  padding: 25px;
   margin-bottom: 10px;
 }
 .logo {
@@ -28,9 +34,9 @@ h2 {
 }
 
 .simple-container {
-  padding: 25px;
-  background-color: #1abc9c;
+  background-color: $single-bg-color;
 }
+
 .spin-container {
   width: 66vw;
   margin: 25px auto;
@@ -40,13 +46,16 @@ h2 {
 } 
 
 .loadface {
-  border-radius: 50%;
   height: 200px;
-  margin: 20px 50px;
   min-width: 200px;
+  border-radius: 50%;
+  background-color: #fff;
+  
+  margin: 20px 50px;
   box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3); 
+  
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fff;
+  
 }
