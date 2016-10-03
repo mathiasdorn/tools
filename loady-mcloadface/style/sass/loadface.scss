@@ -1,11 +1,11 @@
-.loader1 {
-  height: 50px;
-  width: 50px;
-  border-radius: 50%;
+@import 'spinner-config';
+
+.hard-pulse {
+  @include circle-spinner;
   background-color: #ec644b;
-  animation: loader1 2s infinite ease-in-out;
+  animation: hard-pulse 2s infinite ease-in-out;
 }
-@keyframes loader1 {
+@keyframes hard-pulse {
   0%, 20%, 40%, 60%, 100% {
     transform: scale(.2);
     opacity: 0;
@@ -16,17 +16,15 @@
   }
 }
 
-.loader2 {
-  height: 50px;
-  width: 50px;
-  border-radius: 50%;
+.spinning-borders {
+  @include circle-spinner;
   border: 6px solid #eeeeee;
   border-top-color: #bfbfbf;
   border-bottom-color: #bfbfbf;
-  animation: loader2 1.5s infinite ease-in-out;
+  animation: spinning-borders 1.5s infinite ease-in-out;
 }
 
-@keyframes loader2 {
+@keyframes spinning-borders {
   0% {
     transform: rotate(0deg);
   }
@@ -36,34 +34,30 @@
 }  
 
 
-.loader3 {
-  height: 50px;
-  width: 50px;
-  border-radius: 50%;
+.soft-pulse {
+  @include circle-spinner;
   background-color: #90c695;
-  animation: loader3 1s infinite ease-in-out;
+  animation: soft-pulse 1s infinite ease-in-out;
 }
    
-@keyframes loader3 {
+@keyframes soft-pulse {
   0% {
     transform: scale(0);
     opacity: 1;
   }
   100% {
-    tansform: scale(1);
+    transform: scale(1);
     opacity: 0;
   }
 }  
  
-.loader4 {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+.drunk-cyclops {
+  @include circle-spinner;
   background-color: #ec644b;
-  animation: loader4 2s infinite ease-in-out;
+  animation: drunk-cyclops 2s infinite ease-in-out;
 }
   
-@keyframes loader4 {
+@keyframes drunk-cyclops {
   0%, 100% {
     filter: blur(0);
   }
@@ -72,12 +66,12 @@
   }
 }
 
-.loader5 {
-  height: 50px;
-  width: 50px;
-  animation: loader5 5s infinite linear;
+.color-cube {
+  height: $spinner-size;
+  width: $spinner-size;
+  animation: color-cube 5s infinite linear;
 }
-@keyframes loader5 {
+@keyframes color-cube {
   0% {
     transform: perspective(180px) rotateX(0deg) rotateY(0deg);
     background-color: #f4d03f;
@@ -100,41 +94,40 @@
   }
 }
 
-.loader6 {
-  height: 20px;
-  width: 20px;
+.what-goes-around {
+  height: $spinner-size - 30px;;
+  width: $spinner-size - 30px;
   border-radius: 50%;
-  animation: loader6 1.5s infinite linear;
+  animation: what-goes-around 1.5s infinite linear;
 }
-@keyframes loader6 {
+$translate-dimension: $spinner-size - 30px;
+@keyframes what-goes-around {
   0%, 20%, 100% {
-    transform: translate(-20px, -20px);
+    transform: translate(-$translate-dimension, -$translate-dimension);
     background-color: #f5d76e;
   }
   25%, 45% {
-    transform: translate(20px, -20px);
+    transform: translate($translate-dimension, -$translate-dimension);
     background-color: #4183d7;
   }
   50%, 70% {
-    transform: translate(20px, 20px);
+    transform: translate($translate-dimension, $translate-dimension);
     background-color: #d64541;
   }
   75%, 95% {
-    transform: translate(-20px, 20px);
+    transform: translate(-$translate-dimension, $translate-dimension);
     background-color: #26a65b;
   }
 }
 
-.loader7 {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;  
+.two-face {
+  @include circle-spinner;  
   border: 4px solid rgba(255,255,255,0);
   border-top-color: 4px solid #7fc4d1;
   border-right-color: 4px solid #7fc4d1;
-  animation: loader7 3s infinite linear;
+  animation: two-face 3s infinite linear;
 }
-@keyframes loader7 {
+@keyframes two-face {
   0% {
     transform: rotate(0deg);
     border-top-color: #7fc4d1;
@@ -151,13 +144,11 @@
   }
 }
 
-.loader8 {
+.circuit {
   position: relative;
-  height: 50px;
-  width: 50px;
+  @include circle-spinner;
   border: 8px solid #A2DED0;
-  border-radius: 50%;
-  animation: loader8 2s infinite linear; 
+  animation: circuit 2s infinite linear; 
 
   &:before { 
     content: '';
@@ -170,19 +161,19 @@
     left: 14px;
   }
 }     
-@keyframes loader8 {   
+@keyframes circuit {   
   100% {
     transform: rotate(360deg)
   }
 }
   
-.loader9 {
-  height: 50px;
-  width: 50px;
+.spinning-cube {
+  height: $spinner-size;
+  width: $spinner-size;
   background-color: #d35400;
-  animation: loader9 1s infinite linear; 
+  animation: spinning-cube 1s infinite linear; 
 }
-@keyframes loader9 {
+@keyframes spinning-cube {
   0% {
     transform: perspective(120px) rotateX(0deg) rotateY(0deg);
   }

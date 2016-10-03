@@ -1,0 +1,7 @@
+$spinner-size: 50px;
+
+@mixin circle-spinner {
+  height: $spinner-size;
+  width: $spinner-size;
+  border-radius: 50%;
+}
