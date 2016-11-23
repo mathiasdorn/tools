@@ -70,6 +70,7 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 
 * [Dribble](https://dribbble.com/) - The place where designers share their most dazzling assets.
 * [UI Temple](http://www.uitemple.com/) - Curated Collection of the Best Web Page Designs & Inspirations
+* [Best of Themes](https://www.bestofthemes.com/) - Find & collect high quality themes & templates from top marketplaces and authors in one place.
 * [Muzli](http://muz.li/) - Browser extension providing inspiration in every new tab.
 * [Awwwards](http://www.awwwards.com/) - Recognizes the talent of the best designers, developers and agencies.
 * [One Page Love](https://onepagelove.com/) - Showcase of one page websites.
@@ -98,6 +99,7 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [Logo Makr](https://logomakr.com/) - Create simple logo with flaticons materials.
 * [Logo Garden](https://www.logogarden.com/) - Select the industry you are working in and choose  the generated logo.
 * [Logoshi](https://www.logoshi.com/) - Draw a messy sketch and get a clean generated logo.	
+
 ## Prototyping
 
 * [Sketch](https://www.sketchapp.com/) - A vector design tool convenient for UI and UX. Mac only.
