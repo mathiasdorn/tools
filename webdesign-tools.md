@@ -23,10 +23,11 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 * [SplitShire](http://www.splitshire.com/) - CCO stock collection.
 * [Zoommy](https://zoommyapp.com/) - Free stock photos via desktop app.
 
-## Stock Graphics
+## Stock Graphics / Icons
 
 * [Vecteezy](https://www.vecteezy.com/) - The best place to find vector images
 * [The Noun Project](https://thenounproject.com/) - Find simple icons and glyphs.
+* [Fontastic](http://fontastic.me/) - Create your icon fonts in seconds. (Use your own or public to generate a custom font icon set)
 * [Flat Icon](http://www.flaticon.com/) - Large icon database made by designers.
 * [Icon Finder](https://www.iconfinder.com/) - Powerful search engine for ferr icons.
 * [Webalys](http://www.webalys.com/) - One of the most wonderful icon libary.
@@ -104,9 +105,14 @@ This Cheat Sheet is an overview about webdesign tools, which are divided into ca
 
 * [Sketch](https://www.sketchapp.com/) - A vector design tool convenient for UI and UX. Mac only.
 * [Napkin](http://designwithnapkin.com/) - Design quick mockups on your ios device.
+* [Materia](https://getmateria.com/) - A modern development environment to build advanced mobile and web applications.
 * [Flinto](https://www.flinto.com/) - Sketch interactive prototypes from static images.
 * [ProtoIO](https://proto.io/?gclid=CjwKEAjwvb2_BRCb_s7Yo7_ZlHASJABz6L0jIktFxATW5o1bP8iI3GGI6R6UIKeOJWWI0IW6BlAC1hoCQijw_wcB) - Make ultra realistic app prototypes without coding.
 * [Weld](https://www.weld.io/) - Draw your website online.
 * [Balsamiq](https://balsamiq.com/) - Wireframing tool for clear mockups.
 * [Atomic](https://atomic.io/) - Design prototypes and share with you team.
 * [HTML5 Up](https://html5up.net/) - Create classy, customizable responsive HTML 5 templates.
+
+## Other
+
+* [CSS Animate](http://cssanimate.com/) - CSS3 Keyframes Animation Generator.
